@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:avrisp",
+    "sketch": "Arduino_NodeMCU Code\\arduino\\arduino.ino"
+}

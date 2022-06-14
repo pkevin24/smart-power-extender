@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1085768901464",
+    "firebase_url": "https://smart-power-extender-default-rtdb.firebaseio.com",
+    "project_id": "smart-power-extender",
+    "storage_bucket": "smart-power-extender.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085768901464:android:f238df86a6c1532accfb2d",
+        "android_client_info": {
+          "package_name": "com.example.iotapp_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085768901464-b1virciim3m6ccarbfkbl5ku83728nj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-X8RNb7E5OTK74eRrWDcr32o4bC5ksn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085768901464-b1virciim3m6ccarbfkbl5ku83728nj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
